@@ -7,6 +7,8 @@ sen_zan = input("sen zan : ")
 
 os.system('clear')
 
+print("\033[31mred color ")
+print("\033[0mno color ")
 print(f"gad farzand : 1 ")
 print("rang post farzand : 2")
 print("rang mo farzand : 3 ")
